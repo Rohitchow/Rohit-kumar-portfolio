@@ -50,7 +50,7 @@ img {
 /* Anchor Styles */
 a {
   text-decoration: none;
-  color: #00d1b2;
+  color: #4757e7;
 }
 
 .navbar a {
@@ -108,7 +108,7 @@ a:hover {
 
 .btn {
   display: inline-block;
-  background: #063647;
+  background: #0be076;
   color: #f4f4f4;
   padding: 0.3rem 1rem;
   font-size: 1.2rem;
